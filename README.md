@@ -2,7 +2,7 @@
 Back-end Script to sync File Servers 
 the execution should be as follows:
 
-## /usr/bin/env python sunc.py [Source-Directory]
+## /usr/bin/env python sync.py [Source-Directory]
 
 the script test source and destination equality 
 regarding their size and in case of unequality 
