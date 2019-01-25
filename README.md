@@ -1,5 +1,6 @@
 # sync
-Back-end Script to sync File Servers 
+Back-end Script to sync File Servers.
+
 the execution should be as follows:
 
 ## /usr/bin/env python sync.py [Source-Directory]
