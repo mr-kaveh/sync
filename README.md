@@ -1,4 +1,4 @@
-# sync
+# Sync
 Back-end Script to sync File Servers.
 
 the execution should be as follows:
